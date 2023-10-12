@@ -39,9 +39,6 @@ I was a bit overwhelmed but i was fully committed to retexture my map, CommonCol
 
 Said .wad file is in the github if you wanna check em out, altho there are some unused that are not compiled within the map.
 
-
-
-
 ## Credits 
 
 Author of the map (Da level designer): Chuma
