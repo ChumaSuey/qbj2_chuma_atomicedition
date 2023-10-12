@@ -5,7 +5,9 @@
 Map name : Ahioren's Nightmare
 
 Author of the original map: Chuma
+
 Co-Author (big help) : Commoncold 
+
 (consider this a collab, more to come).
 
 Co Author (mapping/design) : 
