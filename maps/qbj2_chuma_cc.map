@@ -5967,3 +5967,21 @@
 ( 1435 -1111 16 ) ( 1435 -1111 40 ) ( 1435 -1103 40 ) techflat2_rst2 [ 0 0 -1.0000000000000002 0 ] [ 1.2246467991473535e-16 1.0000000000000002 0 7 ] 0 1 1
 }
 }
+// entity 337
+{
+"classname" "info_player_coop"
+"origin" "2848 -3792 -264"
+"angles" "0 -180 0"
+}
+// entity 338
+{
+"classname" "info_player_coop"
+"origin" "2880 -3872 -264"
+"angles" "0 -180 0"
+}
+// entity 339
+{
+"classname" "info_player_coop"
+"origin" "2870 -3946 -264"
+"angles" "0 -180 0"
+}
