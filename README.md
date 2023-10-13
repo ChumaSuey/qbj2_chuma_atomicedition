@@ -12,6 +12,7 @@ Co-Author (big help) : Commoncold
 
 Co Author (mapping/design) : 
 - Forte.
+- RecycledOJ.
 - bmFbr.
 - Spootnik.
 - Makkon (all the texture were his)
@@ -43,17 +44,6 @@ Said .wad file is in the github if you wanna check em out, altho there are some 
 
 ## Credits 
 
-Author of the map (Da level designer): Chuma
-Co-author of the map (Da artist, playtester,etc): CommonCold
-
-Co Author (mapping/design) : 
-- Forte.
-- bmFbr.
-- Makkon (the sky texture)
-
-
-Co Author (music) :
-- Karl Casey / White Bat Audio. 
 
 Special Thanks
 - Yuyi
@@ -66,7 +56,6 @@ Special Thanks
 - Spootnik
 - Em3raldTig3r
 - JoyModulo
-- RecycledOJ
 - Inky
 - Quake Mapping community (Slipseer and Quaddicted)
 - USDQC
